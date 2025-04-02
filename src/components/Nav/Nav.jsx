@@ -16,7 +16,7 @@ const Nav = () => {
                 href="linkedin.com/in/aishwarya-bhosale-814a30235/aam"
                 rel="noreferrer"
                 >
-                    AAM 
+                    {/* AAM  */}
                     </a>
             </div>
         </div>
