@@ -9,16 +9,16 @@ const Nav = () => {
                 <img className="flash-logo" src={logo} alt="logo" />
                 <p className="flash-logo-text">FlashType</p>
             </div>
-            <div className="nav-right">
+            {/* <div className="nav-right">
                 <a 
                 target="_blank"
                 className="nav-aam-link"
                 href="linkedin.com/in/aishwarya-bhosale-814a30235/aam"
                 rel="noreferrer"
                 >
-                    {/* AAM  */}
+                    AAM 
                     </a>
-            </div>
+            </div> */}
         </div>
     );
 };
