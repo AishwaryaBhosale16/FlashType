@@ -32,7 +32,7 @@ The app calculates typing speed in **words per minute (WPM)** and provides real-
      ```bash
    cd FlashType
 
-3.Install dependencies:
+3. Install dependencies:
     ```bash
     npm start
 
