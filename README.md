@@ -29,6 +29,7 @@ The app calculates typing speed in **words per minute (WPM)** and provides real-
    git clone https://github.com/AishwaryaBhosale16/FlashType.git
 
 2. Navigate to the project directory:
+     ```bash
    cd FlashType
 
 
