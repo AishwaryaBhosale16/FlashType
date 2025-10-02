@@ -22,10 +22,10 @@ FlashType/
 ├── public/               # Static files
 ├── src/                  # React source code
 │   ├── components/       # Reusable UI components
-│   ├── App.js            # Main App component
-│   ├── index.js          # Entry point
-│   └── styles.css        # Styling
-└── README.md             # Documentation
+│   ├── App.js/           # Main App component
+│   ├── index.js/         # Entry point
+│   └── styles.css/        # Styling
+└── README.md/             # Documentation
 
 
 
