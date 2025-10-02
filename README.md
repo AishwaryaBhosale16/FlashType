@@ -40,5 +40,7 @@ The app calculates typing speed in **words per minute (WPM)** and provides real-
      ```bash
      npm start
 
+5. Open http://localhost:3000/ in your browser
+
 
 
