@@ -13,22 +13,6 @@ The app calculates typing speed in **words per minute (WPM)** and provides real-
 - 🔄 Dynamic feedback while typing  
 - 🎨 Responsive and user-friendly UI built with React  
 
----
-
-## 📂 Project Structure
-
-FlashType/
-│
-├── public/ # Static files
-├── src/ # React source code
-│ ├── components/ # Reusable UI components
-│ ├── App.js # Main App component
-│ ├── index.js # Entry point
-│ └── styles.css # Styling
-└── README.md # Documentation
-
-
-
 
 ---
 
@@ -43,3 +27,12 @@ FlashType/
 1. Clone the repository:
    ```bash
    git clone https://github.com/AishwaryaBhosale16/FlashType.git
+
+
+## 📘 Learning Outcomes
+
+- ✔ React component-based development  
+- ✔ State management in React  
+- ✔ Handling real-time user input  
+- ✔ Deploying React apps on GitHub Pages  
+
