@@ -19,13 +19,13 @@ The app calculates typing speed in **words per minute (WPM)** and provides real-
 
 FlashType/
 │
-├── public/               # Static files
-├── src/                  # React source code
-│   ├── components/       # Reusable UI components
-│   ├── App.js/           # Main App component
-│   ├── index.js/         # Entry point
-│   └── styles.css/        # Styling
-└── README.md/             # Documentation
+├── public/ # Static files
+├── src/ # React source code
+│ ├── components/ # Reusable UI components
+│ ├── App.js # Main App component
+│ ├── index.js # Entry point
+│ └── styles.css # Styling
+└── README.md # Documentation
 
 
 
