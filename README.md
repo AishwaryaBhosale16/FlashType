@@ -34,7 +34,11 @@ The app calculates typing speed in **words per minute (WPM)** and provides real-
 
 3. Install dependencies:
     ```bash
-    npm start
+    npm install
+
+4. Start the development server:
+     ```bash
+     npm start
 
 
 
