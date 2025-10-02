@@ -43,4 +43,15 @@ The app calculates typing speed in **words per minute (WPM)** and provides real-
 5. Open http://localhost:3000/ in your browser
 
 
+---
+
+## 📘 Learning Outcomes
+
+- ✔ React component-based development  
+- ✔ State management in React  
+- ✔ Handling real-time user input  
+- ✔ Deploying React apps on GitHub Pages  
+
+
+
 
