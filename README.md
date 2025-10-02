@@ -53,5 +53,19 @@ The app calculates typing speed in **words per minute (WPM)** and provides real-
 - ✔ Deploying React apps on GitHub Pages  
 
 
+---
+
+## Contributing
+
+Contributions are welcome! You can:
+
+- Improve UI/UX design
+- Add more typing modes (e.g., custom time, difficulty levels)
+- Include performance tracking and statistics
+- Optimize performance and responsiveness
+
+Please create a pull request with your suggested changes.
+
+
 
 
