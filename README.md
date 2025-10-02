@@ -37,10 +37,4 @@ The app calculates typing speed in **words per minute (WPM)** and provides real-
   npm install
 
 
-## 📘 Learning Outcomes
-
-- ✔ React component-based development  
-- ✔ State management in React  
-- ✔ Handling real-time user input  
-- ✔ Deploying React apps on GitHub Pages  
 
